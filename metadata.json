@@ -1,0 +1,8 @@
+{
+  "name": "CareFusion AI",
+  "description": "Autonomous Healthcare Continuum & Risk Orchestration Platform",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
